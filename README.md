@@ -1,8 +1,8 @@
-Header
+#Привет, меня зовут Дарья!
 
-## I'm a beginner Software Engeneer
+## Обо мне
 
 ###Languages and Tools
-![Flutter](https://img.shields.io/badge/-Jira-blue-stylefor-the-badge)
+![Jira](https://img.shields.io/badge/-Jira-blue-)
 
 Follow me
